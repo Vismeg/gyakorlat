@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Felhasznalo\\Desktop\\autoverseny\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB368C0-5934-4255-931C-444719B77846}|autoverseny\\autoverseny.csproj|c:\\users\\felhasznalo\\desktop\\autoverseny\\autoverseny\\controllers\\palyacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AB368C0-5934-4255-931C-444719B77846}|autoverseny\\autoverseny.csproj|solutionrelative:autoverseny\\controllers\\palyacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB368C0-5934-4255-931C-444719B77846}|autoverseny\\autoverseny.csproj|c:\\users\\felhasznalo\\desktop\\autoverseny\\autoverseny\\models\\versenyzo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AB368C0-5934-4255-931C-444719B77846}|autoverseny\\autoverseny.csproj|solutionrelative:autoverseny\\models\\versenyzo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB368C0-5934-4255-931C-444719B77846}|autoverseny\\autoverseny.csproj|c:\\users\\felhasznalo\\desktop\\autoverseny\\autoverseny\\controllers\\koridocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AB368C0-5934-4255-931C-444719B77846}|autoverseny\\autoverseny.csproj|solutionrelative:autoverseny\\controllers\\koridocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB368C0-5934-4255-931C-444719B77846}|autoverseny\\autoverseny.csproj|c:\\users\\felhasznalo\\desktop\\autoverseny\\autoverseny\\models\\palya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AB368C0-5934-4255-931C-444719B77846}|autoverseny\\autoverseny.csproj|solutionrelative:autoverseny\\models\\palya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB368C0-5934-4255-931C-444719B77846}|autoverseny\\autoverseny.csproj|c:\\users\\felhasznalo\\desktop\\autoverseny\\autoverseny\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AB368C0-5934-4255-931C-444719B77846}|autoverseny\\autoverseny.csproj|solutionrelative:autoverseny\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB368C0-5934-4255-931C-444719B77846}|autoverseny\\autoverseny.csproj|c:\\users\\felhasznalo\\desktop\\autoverseny\\autoverseny\\models\\versenycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AB368C0-5934-4255-931C-444719B77846}|autoverseny\\autoverseny.csproj|solutionrelative:autoverseny\\models\\versenycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB368C0-5934-4255-931C-444719B77846}|autoverseny\\autoverseny.csproj|c:\\users\\felhasznalo\\desktop\\autoverseny\\autoverseny\\models\\csapat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AB368C0-5934-4255-931C-444719B77846}|autoverseny\\autoverseny.csproj|solutionrelative:autoverseny\\models\\csapat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Versenyzo.cs",
+              "DocumentMoniker": "C:\\Users\\Felhasznalo\\Desktop\\autoverseny\\autoverseny\\Models\\Versenyzo.cs",
+              "RelativeDocumentMoniker": "autoverseny\\Models\\Versenyzo.cs",
+              "ToolTip": "C:\\Users\\Felhasznalo\\Desktop\\autoverseny\\autoverseny\\Models\\Versenyzo.cs",
+              "RelativeToolTip": "autoverseny\\Models\\Versenyzo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T16:39:57.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Palya.cs",
+              "DocumentMoniker": "C:\\Users\\Felhasznalo\\Desktop\\autoverseny\\autoverseny\\Models\\Palya.cs",
+              "RelativeDocumentMoniker": "autoverseny\\Models\\Palya.cs",
+              "ToolTip": "C:\\Users\\Felhasznalo\\Desktop\\autoverseny\\autoverseny\\Models\\Palya.cs",
+              "RelativeToolTip": "autoverseny\\Models\\Palya.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T16:30:51.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KoridoController.cs",
+              "DocumentMoniker": "C:\\Users\\Felhasznalo\\Desktop\\autoverseny\\autoverseny\\Controllers\\KoridoController.cs",
+              "RelativeDocumentMoniker": "autoverseny\\Controllers\\KoridoController.cs",
+              "ToolTip": "C:\\Users\\Felhasznalo\\Desktop\\autoverseny\\autoverseny\\Controllers\\KoridoController.cs",
+              "RelativeToolTip": "autoverseny\\Controllers\\KoridoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T16:07:35.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PalyaController.cs",
+              "DocumentMoniker": "C:\\Users\\Felhasznalo\\Desktop\\autoverseny\\autoverseny\\Controllers\\PalyaController.cs",
+              "RelativeDocumentMoniker": "autoverseny\\Controllers\\PalyaController.cs",
+              "ToolTip": "C:\\Users\\Felhasznalo\\Desktop\\autoverseny\\autoverseny\\Controllers\\PalyaController.cs",
+              "RelativeToolTip": "autoverseny\\Controllers\\PalyaController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAwD8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T16:05:04.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Csapat.cs",
+              "DocumentMoniker": "C:\\Users\\Felhasznalo\\Desktop\\autoverseny\\autoverseny\\Models\\Csapat.cs",
+              "RelativeDocumentMoniker": "autoverseny\\Models\\Csapat.cs",
+              "ToolTip": "C:\\Users\\Felhasznalo\\Desktop\\autoverseny\\autoverseny\\Models\\Csapat.cs",
+              "RelativeToolTip": "autoverseny\\Models\\Csapat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T16:03:35.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VersenyContext.cs",
+              "DocumentMoniker": "C:\\Users\\Felhasznalo\\Desktop\\autoverseny\\autoverseny\\Models\\VersenyContext.cs",
+              "RelativeDocumentMoniker": "autoverseny\\Models\\VersenyContext.cs",
+              "ToolTip": "C:\\Users\\Felhasznalo\\Desktop\\autoverseny\\autoverseny\\Models\\VersenyContext.cs",
+              "RelativeToolTip": "autoverseny\\Models\\VersenyContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T16:02:26.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felhasznalo\\Desktop\\autoverseny\\autoverseny\\Program.cs",
+              "RelativeDocumentMoniker": "autoverseny\\Program.cs",
+              "ToolTip": "C:\\Users\\Felhasznalo\\Desktop\\autoverseny\\autoverseny\\Program.cs",
+              "RelativeToolTip": "autoverseny\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T15:58:39.178Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

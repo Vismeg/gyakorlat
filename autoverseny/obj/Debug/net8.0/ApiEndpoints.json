@@ -1,0 +1,76 @@
+[
+  {
+    "ContainingType": "autoverseny.Controllers.KoridoController",
+    "Method": "Get",
+    "RelativePath": "api/Korido",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "autoverseny.Controllers.PalyaController",
+    "Method": "Post",
+    "RelativePath": "api/Palya",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "palya",
+        "Type": "autoverseny.Models.Palya",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "autoverseny.Controllers.PalyaController",
+    "Method": "Put",
+    "RelativePath": "api/Palya",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "palya",
+        "Type": "autoverseny.Models.Palya",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "autoverseny.Controllers.PalyaController",
+    "Method": "Delete",
+    "RelativePath": "api/Palya/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "autoverseny.Controllers.PalyaController",
+    "Method": "Get",
+    "RelativePath": "api/Palya/id",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
